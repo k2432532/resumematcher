@@ -1,0 +1,11 @@
+streamlit
+mysql-connector-python
+python-dotenv
+openai
+pinecone-client
+sentence-transformers
+PyPDF2
+python-docx
+pandas
+fuzzywuzzy
+python-Levenshtein
